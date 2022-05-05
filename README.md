@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ivanlandry
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning the DJango framework
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
